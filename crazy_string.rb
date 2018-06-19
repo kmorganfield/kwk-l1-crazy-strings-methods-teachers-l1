@@ -5,4 +5,4 @@ def crazy_strings(a,b)
   puts b.gsub('s', 'z').swapcase
 end
 
-crazy_strings("apple", "banana")
+crazy_strings("apple", "grapes")
